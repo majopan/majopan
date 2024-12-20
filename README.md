@@ -55,8 +55,8 @@ I am a software development student and a passionate frontend and backend develo
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=pannzzz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/pannzzz)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=pannzzz&theme=material-palenight)](https://github.com/pannzzz)
+[![](https://github-readme-stats.vercel.app/api?username=majopan&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/majopan)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=majopan&theme=material-palenight)](https://github.com/majopan)
 </div>
 
 <h3>My GitHub Stats</h3>
@@ -64,5 +64,5 @@ I am a software development student and a passionate frontend and backend develo
 <br>
 
 
-<p><img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=pannzzz&show_icons=true&theme=dark&locale=en&layout=compact" alt="pannzzz" /></p>
+<p><img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=majopan&show_icons=true&theme=dark&locale=en&layout=compact" alt="majopan" /></p>
 
