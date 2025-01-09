@@ -19,7 +19,7 @@ I am a software development student and a passionate frontend and backend develo
 - 🎮 In my free time, I enjoy gaming, listening to music, and reading tech blogs.  
 - 📫 Reach me at: **mariazzz2326@gmail.com** 
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif" />
-## My Skills Include
+# My Skills Include
 
 <h4> Languages </h4>
 <span> 
