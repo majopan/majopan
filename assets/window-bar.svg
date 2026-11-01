@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 44" width="1000" height="44" role="presentation">
+<defs>
+  <linearGradient id="b" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#1D3557"/><stop offset="0.5" stop-color="#2B4A7A"/><stop offset="1" stop-color="#1D3557"/>
+  </linearGradient>
+  
+<g id="sakura">
+  <g fill="#FFB7C5" stroke="#FF8FA8" stroke-width="0.6" stroke-linejoin="round">
+    <path id="pt" d="M0,0 C-10,-6 -11,-20 -3.5,-25 L0,-21 L3.5,-25 C11,-20 10,-6 0,0 Z"/>
+    <use xlink:href="#pt" transform="rotate(72)"/>
+    <use xlink:href="#pt" transform="rotate(144)"/>
+    <use xlink:href="#pt" transform="rotate(216)"/>
+    <use xlink:href="#pt" transform="rotate(288)"/>
+  </g>
+  <circle r="3.2" fill="#FFE1E8"/>
+  <g stroke="#E8557A" stroke-width="0.8" stroke-linecap="round">
+    <path d="M0,0 L0,-8"/><path d="M0,0 L7.6,-2.5"/><path d="M0,0 L4.7,6.5"/>
+    <path d="M0,0 L-4.7,6.5"/><path d="M0,0 L-7.6,-2.5"/>
+  </g>
+  <g fill="#E8557A"><circle cx="0" cy="-8" r="1.2"/><circle cx="7.6" cy="-2.5" r="1.2"/><circle cx="4.7" cy="6.5" r="1.2"/><circle cx="-4.7" cy="6.5" r="1.2"/><circle cx="-7.6" cy="-2.5" r="1.2"/></g>
+</g>
+<path id="petal" d="M0,0 C-5,-4 -6,-11 -1.6,-13.5 L0,-11 L1.6,-13.5 C6,-11 5,-4 0,0 Z" fill="#FFB7C5" stroke="#FF8FA8" stroke-width="0.4"/>
+
+</defs>
+<path d="M0,44 L0,14 Q0,0 14,0 L986,0 Q1000,0 1000,14 L1000,44 Z" fill="url(#b)"/>
+<rect x="0" y="42" width="1000" height="2" fill="#FFB7C5" fill-opacity="0.55"/>
+<circle cx="28" cy="22" r="6" fill="#E60012"/>
+<circle cx="50" cy="22" r="6" fill="#FFB7C5"/>
+<circle cx="72" cy="22" r="6" fill="#A8D5A2"/>
+<rect x="230" y="8" width="540" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFB7C5" stroke-opacity="0.45" stroke-width="1"/>
+<g transform="translate(254,22)"><use xlink:href="#sakura" transform="scale(0.36)"/></g>
+<rect x="276" y="19" width="150" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.28"/>
+<rect x="436" y="19" width="70" height="6" rx="3" fill="#FFB7C5" fill-opacity="0.45"/>
+<g fill="#FFB7C5" fill-opacity="0.8"><rect x="944" y="14" width="26" height="3" rx="1.5"/><rect x="944" y="20.5" width="26" height="3" rx="1.5"/><rect x="944" y="27" width="26" height="3" rx="1.5"/></g>
+</svg>

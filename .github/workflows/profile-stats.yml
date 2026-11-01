@@ -1,0 +1,68 @@
+# 🌸 Genera las gráficas del perfil dentro de TU repositorio (sin servicios externos que se caigan)
+# 🌸 Builds the profile charts inside YOUR repo (no external services that can go down)
+#
+# Requiere un secret llamado METRICS_TOKEN (Personal Access Token clásico con: repo, read:user, read:org)
+# Requires a secret named METRICS_TOKEN (classic Personal Access Token with: repo, read:user, read:org)
+
+name: Profile Stats 🌸
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # todos los días 00:00 Bogotá / every day 00:00 Bogotá time
+  workflow_dispatch:       # botón manual / manual button
+
+jobs:
+  # 1) Stats + Top languages + Profile details + Productive time
+  summary-cards:
+    runs-on: ubuntu-latest
+    name: summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: -5
+
+  # 2) Trophies (achievements) + Activity (isometric calendar)
+  metrics:
+    runs-on: ubuntu-latest
+    name: metrics
+    needs: summary-cards
+    if: ${{ !cancelled() }}
+    permissions:
+      contents: write
+    steps:
+      - name: 🏆 Trophies / Logros
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: github-metrics/achievements.svg
+          base: ""
+          config_timezone: America/Bogota
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 0
+          retries: 3
+          retries_delay: 120
+
+      - name: 📅 Activity / Actividad
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: github-metrics/isocalendar.svg
+          base: ""
+          config_timezone: America/Bogota
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          retries: 3
+          retries_delay: 120
