@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 256" width="1000" height="256" role="img" aria-label="Workflow: Data, API, Interface, Insights">
+<defs>
+  <linearGradient id="n" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2B4A7A"/><stop offset="1" stop-color="#1D3557"/></linearGradient>
+  
+<g id="sakura">
+  <g fill="#FFB7C5" stroke="#FF8FA8" stroke-width="0.6" stroke-linejoin="round">
+    <path id="pt" d="M0,0 C-10,-6 -11,-20 -3.5,-25 L0,-21 L3.5,-25 C11,-20 10,-6 0,0 Z"/>
+    <use xlink:href="#pt" transform="rotate(72)"/>
+    <use xlink:href="#pt" transform="rotate(144)"/>
+    <use xlink:href="#pt" transform="rotate(216)"/>
+    <use xlink:href="#pt" transform="rotate(288)"/>
+  </g>
+  <circle r="3.2" fill="#FFE1E8"/>
+  <g stroke="#E8557A" stroke-width="0.8" stroke-linecap="round">
+    <path d="M0,0 L0,-8"/><path d="M0,0 L7.6,-2.5"/><path d="M0,0 L4.7,6.5"/>
+    <path d="M0,0 L-4.7,6.5"/><path d="M0,0 L-7.6,-2.5"/>
+  </g>
+  <g fill="#E8557A"><circle cx="0" cy="-8" r="1.2"/><circle cx="7.6" cy="-2.5" r="1.2"/><circle cx="4.7" cy="6.5" r="1.2"/><circle cx="-4.7" cy="6.5" r="1.2"/><circle cx="-7.6" cy="-2.5" r="1.2"/></g>
+</g>
+<path id="petal" d="M0,0 C-5,-4 -6,-11 -1.6,-13.5 L0,-11 L1.6,-13.5 C6,-11 5,-4 0,0 Z" fill="#FFB7C5" stroke="#FF8FA8" stroke-width="0.4"/>
+
+</defs>
+<text x="500" y="34" text-anchor="middle" font-family="'Noto Serif JP','Hiragino Mincho ProN','Yu Mincho','Noto Serif CJK JP',Georgia,serif" font-size="24" font-weight="700" fill="#E8A0BF" letter-spacing="3">流れ</text>
+<text x="500" y="58" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="15" fill="#8A8FA8">Mi flujo de trabajo  ·  How I build</text>
+
+<g transform="translate(30,96)">
+  <rect width="190" height="130" rx="18" fill="url(#n)" stroke="#FFB7C5" stroke-opacity="0.75" stroke-width="2"/>
+  <rect x="14" y="-14" width="62" height="28" rx="8" fill="#E60012"/>
+  <text x="45" y="6" text-anchor="middle" font-family="'Noto Serif JP','Hiragino Mincho ProN','Yu Mincho','Noto Serif CJK JP',Georgia,serif" font-size="17" font-weight="700" fill="#fff">データ</text>
+  <text x="95" y="62" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">PostgreSQL · MySQL</text>
+  <text x="95" y="90" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="14" fill="#FFB7C5">Datos</text>
+  <text x="95" y="110" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="13" fill="#C9D6F2">Data</text>
+</g>
+<g transform="translate(280,96)">
+  <rect width="190" height="130" rx="18" fill="url(#n)" stroke="#FFB7C5" stroke-opacity="0.75" stroke-width="2"/>
+  <rect x="14" y="-14" width="62" height="28" rx="8" fill="#E60012"/>
+  <text x="45" y="6" text-anchor="middle" font-family="'Noto Serif JP','Hiragino Mincho ProN','Yu Mincho','Noto Serif CJK JP',Georgia,serif" font-size="17" font-weight="700" fill="#fff">API</text>
+  <text x="95" y="62" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Python · Django</text>
+  <text x="95" y="90" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="14" fill="#FFB7C5">Lógica y API</text>
+  <text x="95" y="110" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="13" fill="#C9D6F2">Logic &amp; API</text>
+</g>
+<g transform="translate(530,96)">
+  <rect width="190" height="130" rx="18" fill="url(#n)" stroke="#FFB7C5" stroke-opacity="0.75" stroke-width="2"/>
+  <rect x="14" y="-14" width="62" height="28" rx="8" fill="#E60012"/>
+  <text x="45" y="6" text-anchor="middle" font-family="'Noto Serif JP','Hiragino Mincho ProN','Yu Mincho','Noto Serif CJK JP',Georgia,serif" font-size="17" font-weight="700" fill="#fff">画面</text>
+  <text x="95" y="62" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">React · Redux · Vite</text>
+  <text x="95" y="90" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="14" fill="#FFB7C5">Interfaz</text>
+  <text x="95" y="110" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="13" fill="#C9D6F2">Interface</text>
+</g>
+<g transform="translate(780,96)">
+  <rect width="190" height="130" rx="18" fill="url(#n)" stroke="#FFB7C5" stroke-opacity="0.75" stroke-width="2"/>
+  <rect x="14" y="-14" width="62" height="28" rx="8" fill="#E60012"/>
+  <text x="45" y="6" text-anchor="middle" font-family="'Noto Serif JP','Hiragino Mincho ProN','Yu Mincho','Noto Serif CJK JP',Georgia,serif" font-size="17" font-weight="700" fill="#fff">分析</text>
+  <text x="95" y="62" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Power BI</text>
+  <text x="95" y="90" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="14" fill="#FFB7C5">Dashboards</text>
+  <text x="95" y="110" text-anchor="middle" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic','Meiryo','Noto Sans CJK JP','Segoe UI',system-ui,sans-serif" font-size="13" fill="#C9D6F2">Insights</text>
+</g>
+
+<path d="M226,161 L266,161" stroke="#E8A0BF" stroke-width="3" stroke-linecap="round" stroke-dasharray="7 7" fill="none">
+  <animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.4s" repeatCount="indefinite"/>
+</path>
+<polygon points="264,153 274,161 264,169" fill="#E60012"/>
+<path d="M476,161 L516,161" stroke="#E8A0BF" stroke-width="3" stroke-linecap="round" stroke-dasharray="7 7" fill="none">
+  <animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.4s" repeatCount="indefinite"/>
+</path>
+<polygon points="514,153 524,161 514,169" fill="#E60012"/>
+<path d="M726,161 L766,161" stroke="#E8A0BF" stroke-width="3" stroke-linecap="round" stroke-dasharray="7 7" fill="none">
+  <animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.4s" repeatCount="indefinite"/>
+</path>
+<polygon points="764,153 774,161 764,169" fill="#E60012"/>
+<use xlink:href="#sakura" transform="translate(500,242) rotate(0) scale(0.5)"/><use xlink:href="#sakura" transform="translate(470,242) rotate(30) scale(0.3)"/><use xlink:href="#sakura" transform="translate(530,242) rotate(60) scale(0.3)"/>
+</svg>

@@ -1,89 +1,270 @@
-<h1 align="center">
-  <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" width="60">
-  <b>Hi, I'm Maria Jose Jimenez</b>
-  <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" width="60">
-</h1>
+<!-- ═══════════════════════════════════════════════════════════════
+     🌸 Maria Jose Jiménez · GitHub Profile README  (ES · EN)
+     Tema / Theme: Sakura 桜 · Índigo 藍 · Bermellón 朱
+     Imágenes en /assets  ·  Images live in /assets
+     ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" />
+<!-- ───────────── HEADER ───────────── -->
+<div align="center">
 
-<img src="https://i.pinimg.com/originals/fc/48/e4/fc48e4677fcff30b3381cb177fea9ccb.gif" width="40px">&nbsp;
-***About Me***
-<img src="https://i.pinimg.com/originals/fc/48/e4/fc48e4677fcff30b3381cb177fea9ccb.gif" width="40px">
+<img src="assets/banner.svg" alt="Maria Jose Jiménez · Software Developer & Data Analyst" width="100%"/>
 
-I am a **Software Developer and Data Analyst** with solid experience in both **frontend and backend development**, passionate about combining design, logic, and data analysis to build innovative and impactful solutions.  
-I enjoy creating efficient, user-friendly web applications where clean design meets a reliable and scalable backend.
+<a href="https://github.com/majopan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=E8A0BF&center=true&vCenter=true&width=760&height=50&lines=Desarrolladora+Full-Stack+%E2%9C%A8;Full-Stack+Developer+%E2%9C%A8;Backend+con+Django+%26+Python+%F0%9F%90%8D;Backend+with+Django+%26+Python+%F0%9F%90%8D;Interfaces+con+React+%2B+Vite+%E2%9A%9B%EF%B8%8F;UIs+with+React+%2B+Vite+%E2%9A%9B%EF%B8%8F;Dashboards+con+Power+BI+%F0%9F%93%8A;Dashboards+with+Power+BI+%F0%9F%93%8A" alt="Typing animation" />
+</a>
 
-My main stack includes **Django, React, and Redux**, blending the power of **Python** with the flexibility of **JavaScript** to develop full-featured and maintainable systems. I also have experience with **PHP**, **PostgreSQL**, **Power BI**, and various **web technologies** focused on data visualization and analytical reporting.  
+<br/>
 
-Currently, I work as a **Data Analyst**, developing interactive dashboards and web applications that support data-driven decision-making. I am passionate about continuous learning and turning ideas into functional projects that create real value.  
+![Python](https://img.shields.io/badge/Python-2%2B_a%C3%B1os_%C2%B7_years-FFB7C5?style=for-the-badge&logo=python&logoColor=1D3557&labelColor=1D3557)
+![Django](https://img.shields.io/badge/Django-Backend-FFB7C5?style=for-the-badge&logo=django&logoColor=1D3557&labelColor=1D3557)
+![React](https://img.shields.io/badge/React-Frontend-FFB7C5?style=for-the-badge&logo=react&logoColor=1D3557&labelColor=1D3557)
+![Power BI](https://img.shields.io/badge/Power_BI-Data-FFB7C5?style=for-the-badge&logo=powerbi&logoColor=1D3557&labelColor=1D3557)
 
-I have participated in programming competitions and I’m always eager to keep growing, collaborating, and contributing to projects that make a difference.  
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-- 🌱 **Currently learning:**  
-  - Advanced Power BI  
-  - C++  
-  - Dart  
-  - Vue.js  
+</div>
 
-  <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/08/a8/3b/08a83bca77fa046b6525086ad3a84fe9.gif" />
+<!-- ───────────── ABOUT ───────────── -->
+<div align="center">
+  <img src="assets/header-about.svg" alt="自己紹介 · Sobre mí · About Me" width="100%"/>
+</div>
 
-- 👯 **Open to collaborating** on exciting and innovative open-source projects.  
-- ✔ **Ask me about:** web development, React, or Python. I’m happy to help!  
-- 🎮 In my free time, I enjoy gaming, listening to music, and reading tech blogs.  
-- 📫 **Reach me at:** mariazzz2326@gmail.com  
+<br/>
 
----
+<table align="center">
+<tr>
+<td rowspan="2" width="34%" align="center" valign="middle">
+  <img src="assets/about-scene.svg" alt="Torii y sakura · Torii and sakura" width="260"/>
+</td>
+<td valign="top">
 
-<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif" />
+**🇪🇸 Español**
 
-## 💡 My Skills Include
+¡Hola! Soy **Desarrolladora de Software y Analista de Datos** con **más de 2 años de experiencia en backend** y un fuerte enfoque en frontend. Me encanta combinar **diseño, lógica y datos** para crear soluciones limpias, útiles y con impacto.
 
-### 🧠 Languages  
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">  
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</span>  
+🔹 **Backend:** APIs y sistemas robustos con **Python + Django**.
+🔹 **Frontend:** interfaces rápidas y amigables con **React, Redux y Vite**.
+🔹 **Datos:** actualmente trabajo como **Analista de Datos**, creando dashboards interactivos y aplicaciones web para decisiones basadas en datos.
+🔹 **Competencias:** he participado en competencias de programación y siempre estoy lista para un nuevo reto.
 
-### ⚙️ Frameworks  
-<span>  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">  
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">  
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">   
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-</span>  
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-### 🛠 Other Tools and Technologies 🚀
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</span>
+**🇬🇧 English**
 
----
+Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend experience** and a strong focus on frontend. I love mixing **design, logic and data** to build solutions that are clean, useful and meaningful.
 
-<h2>📊 GitHub Stats</h2>
+🔹 **Backend:** robust APIs and systems with **Python + Django**.
+🔹 **Frontend:** fast, user-friendly interfaces with **React, Redux & Vite**.
+🔹 **Data:** I currently work as a **Data Analyst**, creating interactive dashboards and web apps that support data-driven decisions.
+🔹 **Competitions:** I've taken part in programming competitions and I'm always up for a new challenge.
 
-[![](https://github-readme-stats.vercel.app/api?username=majopan&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/majopan)  
-[![](https://github-readme-streak-stats.herokuapp.com/?user=majopan&theme=material-palenight)](https://github.com/majopan)
+</td>
+</tr>
+</table>
 
-<h3>📈 Most Used Languages</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<div align="center">
 
-<p><img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=majopan&show_icons=true&theme=dark&locale=en&layout=compact" alt="majopan" /></p>
+> 💬 *「継続は力なり」* — **La constancia es poder · Persistence is power.**
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+</div>
+
+<!-- ───────────── QUICK FACTS ───────────── -->
+<div align="center">
+  <img src="assets/header-facts.svg" alt="要点 · Datos rápidos · Quick Facts" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🎯 Enfoque<br/>Focus | 🌱 Aprendiendo<br/>Learning | 🤝 Abierta a<br/>Open to | 💬 Pregúntame sobre<br/>Ask me about |
+|:--:|:--:|:--:|:--:|
+| Full-stack + Datos<br/><sub>Full-stack + Data</sub> | Power BI · C++ · Dart · Vue.js | Colaborar en open source<br/><sub>Open-source collaboration</sub> | Desarrollo web · React · Python<br/><sub>Web dev · React · Python</sub> |
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+</div>
+
+<!-- ───────────── TECH STACK ───────────── -->
+<div align="center">
+  <img src="assets/header-stack.svg" alt="技術 · Tecnologías · Tech Stack" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="assets/workflow.svg" alt="Flujo de trabajo: Datos → API → Interfaz → Insights · Workflow: Data → API → Interface → Insights" width="92%"/>
+
+<br/><br/>
+
+| | Área · Area | Tecnologías · Technologies |
+|:--:|:--|:--|
+| 🐍 | **Backend**<br/><sub>Fortaleza principal · Main strength</sub> | <img src="https://skillicons.dev/icons?i=python,django,php,laravel,nodejs&theme=dark" alt="Backend" /> |
+| ⚛️ | **Frontend**<br/><sub>Mi día a día · Daily driver</sub> | <img src="https://skillicons.dev/icons?i=react,redux,vite,ts,js,html,css,bootstrap&theme=dark" alt="Frontend" /> |
+| 🗄️ | **Bases de datos**<br/><sub>Databases</sub> | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" /> |
+| 📊 | **Datos y BI**<br/><sub>Data & BI</sub> | <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="Power BI" /> |
+| 🛠️ | **Herramientas**<br/><sub>Tools</sub> | <img src="https://skillicons.dev/icons?i=git,github,jira,notion,vscode,npm,powershell,windows&theme=dark" alt="Tools" /> |
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+</div>
+
+<!-- ───────────── LEARNING ───────────── -->
+<div align="center">
+  <img src="assets/header-learning.svg" alt="学習中 · Aprendiendo · Learning" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,dart,vue,powerbi&theme=dark" alt="Learning" />
+
+<br/><br/>
+
+![Power BI](https://img.shields.io/badge/Power_BI_avanzado_%C2%B7_Advanced-En_progreso_%C2%B7_In_progress-E60012?style=flat-square&logo=powerbi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-En_progreso_%C2%B7_In_progress-E60012?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-En_progreso_%C2%B7_In_progress-E60012?style=flat-square&logo=dart&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-En_progreso_%C2%B7_In_progress-E60012?style=flat-square&logo=vuedotjs&logoColor=white)
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+</div>
+
+<!-- ───────────── PROJECTS ───────────── -->
+<div align="center">
+  <img src="assets/header-projects.svg" alt="作品 · Proyectos destacados · Featured Projects" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ✏️ TODO: reemplaza REPO_1, REPO_2, REPO_3 por los nombres reales de tus repositorios.
+     Replace REPO_1, REPO_2, REPO_3 with your real repository names. -->
+<div align="center">
+
+<a href="https://github.com/majopan/REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=majopan&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFB7C5&icon_color=E60012&text_color=C9D1D9" alt="Proyecto 1 · Project 1" />
+</a>
+<a href="https://github.com/majopan/REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=majopan&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFB7C5&icon_color=E60012&text_color=C9D1D9" alt="Proyecto 2 · Project 2" />
+</a>
+<a href="https://github.com/majopan/REPO_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=majopan&repo=REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFB7C5&icon_color=E60012&text_color=C9D1D9" alt="Proyecto 3 · Project 3" />
+</a>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+</div>
+
+<!-- ───────────── STATS ───────────── -->
+<div align="center">
+  <img src="assets/header-stats.svg" alt="統計 · Estadísticas · GitHub Stats" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/majopan">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=majopan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFB7C5&icon_color=E60012&text_color=C9D1D9&locale=es" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/majopan">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majopan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFB7C5&text_color=C9D1D9&locale=es" alt="Top Languages" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=majopan&theme=tokyonight&hide_border=true&background=0D1117&ring=FFB7C5&fire=E60012&currStreakLabel=FFB7C5" alt="Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=majopan&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=majopan&bg_color=0D1117&color=FFB7C5&line=E60012&point=FFFFFF&area=true&area_color=1D3557&hide_border=true" alt="Activity Graph" width="95%" />
+
+<!-- 🐍 OPCIONAL · OPTIONAL — Snake animation
+     1) Copia/Copy  .github/workflows/snake.yml  →  2) Actions → "Generate Snake" → Run workflow
+     3) Quita estos comentarios / Remove these comment marks:
+
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/majopan/majopan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/majopan/majopan/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/majopan/majopan/output/github-snake.svg" width="95%" />
+</picture>
+-->
+
+<br/>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+</div>
+
+<!-- ───────────── FREE TIME ───────────── -->
+<div align="center">
+  <img src="assets/header-hobbies.svg" alt="趣味 · Tiempo libre · Free Time" width="100%"/>
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" valign="middle">
+  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" alt="Unicorn" width="170"/>
+</td>
+<td valign="middle">
+
+🎮 **Videojuegos** · *Gaming*
+🎧 **Música** · *Music*
+📚 **Leer blogs de tecnología** · *Reading tech blogs*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+</div>
+
+<!-- ───────────── CONTACT ───────────── -->
+<div align="center">
+  <img src="assets/header-contact.svg" alt="連絡先 · Contacto · Let's Connect" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+**¿Colaboramos? · Let's build something together!**
+
+<a href="mailto:mariazzz2326@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mariazzz2326@gmail.com-FFB7C5?style=for-the-badge&logo=gmail&logoColor=1D3557&labelColor=1D3557" alt="Email" />
+</a>
+<a href="https://github.com/majopan">
+  <img src="https://img.shields.io/badge/GitHub-majopan-FFB7C5?style=for-the-badge&logo=github&logoColor=1D3557&labelColor=1D3557" alt="GitHub" />
+</a>
+<!-- ✏️ Opcional · Optional: LinkedIn
+<a href="https://www.linkedin.com/in/TU-USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-Maria_Jose-FFB7C5?style=for-the-badge&logo=linkedin&logoColor=1D3557&labelColor=1D3557" alt="LinkedIn" />
+</a>
+-->
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=majopan&label=Visitas+%C2%B7+Views&color=E8A0BF&style=for-the-badge&labelColor=1D3557" alt="Profile views" />
+
+<br/><br/>
+
+<img src="assets/footer.svg" alt="ありがとう · Gracias · Thank you" width="100%"/>
+
+</div>
