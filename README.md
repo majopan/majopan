@@ -141,74 +141,36 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 <div align="center">
   <img src="assets/header-projects.svg" alt="作品 · Proyectos destacados · Featured Projects" width="100%"/>
 </div>
-
-<br/>
-
+<img src="assets/divider.svg" alt="" width="100%"/>
 <!-- ═════════ 壱 · DOZO ═════════ -->
 <div align="center">
 
 <img src="assets/project-1.svg" alt="壱 · Dozo" width="100%"/>
-
-<sub>🛍️ <b>Haz clic en la imagen para abrir la demo</b> · <i>Click the image to open the live demo</i></sub>
-
-<br/><br/>
-
 <a href="https://dozo-iota.vercel.app/">
   <img src="assets/window-bar.svg" alt="" width="100%"/><br/>
   <img src="https://github.com/majopan/E-comerce-dozo/blob/main/frontend/frontend-dozo/src/assets/home.png?raw=true" alt="Vista previa de la página de Dozo · Dozo page preview" width="100%"/>
 </a>
-
-<br/><br/>
-
-<a href="https://dozo-iota.vercel.app/"><img src="https://img.shields.io/badge/Demo-En_vivo_%C2%B7_Live-E60012?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/></a>
-<a href="https://github.com/majopan/E-comerce-dozo"><img src="https://img.shields.io/badge/GitHub-C%C3%B3digo_%C2%B7_Code-FFB7C5?style=for-the-badge&logo=github&logoColor=1D3557&labelColor=1D3557" alt="Código · Code"/></a>
-
-<br/><br/><br/>
-
-</div>
-
+<img src="assets/divider.svg" alt="" width="100%"/>
 <!-- ═════════ 弐 · E-INVENTORY ═════════ -->
 <div align="center">
 
 <img src="assets/project-2.svg" alt="弐 · E-Inventory" width="100%"/>
-
-<sub>📊 <b>Gráficas de dispositivos</b> · <i>Device charts</i></sub>
-
-<br/><br/>
-
 <a href="https://github.com/majopan/e-inventoy-frontend-">
   <img src="assets/window-bar.svg" alt="" width="100%"/><br/>
   <img src="https://github.com/majopan/e-inventoy-frontend-/blob/main/img/grafic_dis.png?raw=true" alt="Gráficas de dispositivos · Device charts" width="100%"/>
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/majopan/e-inventoy-frontend-"><img src="https://img.shields.io/badge/GitHub-C%C3%B3digo_%C2%B7_Code-FFB7C5?style=for-the-badge&logo=github&logoColor=1D3557&labelColor=1D3557" alt="Código · Code"/></a>
-
-<br/><br/><br/>
-
 </div>
-
+<img src="assets/divider.svg" alt="" width="100%"/>
 <!-- ═════════ 参 · TONGARI BERRY ═════════ -->
 <div align="center">
 
 <img src="assets/project-3.svg" alt="参 · Tongari Berry" width="100%"/>
 
-<sub>🍓 <b>Mira cómo luce el puesto</b> · <i>See how the stand looks</i></sub>
-
-<br/><br/>
-
 <img src="assets/window-bar.svg" alt="" width="100%"/><br/>
 <img src="https://github.com/user-attachments/assets/60ac38e0-b9f3-4520-b395-7d65f35ff84d" width="100%" alt="Pantalla de inicio de Tongari Berry · Tongari Berry home screen"/><br/>
-<sub>🏠 <b>La entrada de la carpa:</b> pantalla de inicio · <i>The tent entrance: home screen</i></sub>
 
-<!-- ✏️ Si tienes el repo/demo de Tongari Berry, agrega botones aquí. If you have its repo/demo, add buttons here:
-<br/><br/>
-<a href="https://github.com/majopan/NOMBRE-DEL-REPO"><img src="https://img.shields.io/badge/GitHub-C%C3%B3digo_%C2%B7_Code-FFB7C5?style=for-the-badge&logo=github&logoColor=1D3557&labelColor=1D3557" alt="Código · Code"/></a>
--->
-
-<br/><br/>
-
+<br/>
 <img src="assets/divider.svg" alt="" width="100%"/>
 
 </div>
@@ -220,80 +182,23 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 
 <br/>
 
-<!-- ℹ️ Las 5 tarjetas (stats, profile details, lenguajes por repos, lenguajes por commits, hora productiva)
-     las genera el workflow  .github/workflows/profile-stats.yml  y se guardan en /profile-summary-card-output.
-     Los trofeos y el calendario los genera  .github/workflows/metrics.yml  en /github-metrics.
-     Ambas carpetas aparecen DESPUÉS de ejecutar los workflows (pestaña Actions → Run workflow). -->
 <div align="center">
-
-<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="49%"/>
-<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="49%"/>
-
-<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages (repos)" width="49%"/>
-<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages (commits)" width="49%"/>
-
-<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%"/>
-
-<br/><br/>
-
-<b>🏆 Trofeos · Trophies</b>
-
-<img src="github-metrics/achievements.svg" alt="Trophies · Achievements" width="95%"/>
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majopan&theme=github_dark)
+  
+ </div>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=majopan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=majopan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <br/><br/>
-
-<b>📅 Actividad · Activity</b>
-
-<img src="github-metrics/isocalendar.svg" alt="Activity graph · Isometric calendar" width="95%"/>
-
-<sub>🔄 Se actualiza solo cada día · <i>Updates automatically every day</i></sub>
-
-<!-- 🐍 OPCIONAL · OPTIONAL — Snake animation
-     1) Copia/Copy  .github/workflows/snake.yml  →  2) Actions → "Generate Snake" → Run workflow
-     3) Quita estos comentarios / Remove these comment marks:
-
-<br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/majopan/majopan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/majopan/majopan/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/majopan/majopan/output/github-snake.svg" width="95%" />
-</picture>
--->
-
-<br/><br/>
-
 <img src="assets/divider.svg" alt="" width="100%"/>
 
 </div>
-
-<!-- ───────────── FREE TIME ───────────── -->
-<div align="center">
-  <img src="assets/header-hobbies.svg" alt="趣味 · Tiempo libre · Free Time" width="100%"/>
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" valign="middle">
-  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" alt="Unicorn" width="170"/>
-</td>
-<td valign="middle">
-
-🎮 **Videojuegos** · *Gaming*
-🎧 **Música** · *Music*
-📚 **Leer blogs de tecnología** · *Reading tech blogs*
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="assets/divider.svg" alt="" width="100%"/>
-
-</div>
-
 <!-- ───────────── CONTACT ───────────── -->
 <div align="center">
   <img src="assets/header-contact.svg" alt="連絡先 · Contacto · Let's Connect" width="100%"/>
@@ -311,12 +216,6 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 <a href="https://github.com/majopan">
   <img src="https://img.shields.io/badge/GitHub-majopan-FFB7C5?style=for-the-badge&logo=github&logoColor=1D3557&labelColor=1D3557" alt="GitHub" />
 </a>
-<!-- ✏️ Opcional · Optional: LinkedIn
-<a href="https://www.linkedin.com/in/TU-USUARIO">
-  <img src="https://img.shields.io/badge/LinkedIn-Maria_Jose-FFB7C5?style=for-the-badge&logo=linkedin&logoColor=1D3557&labelColor=1D3557" alt="LinkedIn" />
-</a>
--->
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=majopan&label=Visitas+%C2%B7+Views&color=E8A0BF&style=for-the-badge&labelColor=1D3557" alt="Profile views" />
