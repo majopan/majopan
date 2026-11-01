@@ -1,0 +1,27 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # todos los días a las 00:00 hora Colombia (UTC-5)
+  workflow_dispatch: # permite ejecutarlo a mano desde la pestaña Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write # necesario para que el action haga commit de los SVG
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Usa tu Personal Access Token (secret SUMMARY_CARDS_TOKEN).
+          # Si no quieres crearlo todavía, cambia esta línea por:
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main" # rama donde se guardan las tarjetas
+          UTC_OFFSET: -5 # Colombia, para que "Productive time" salga bien
+          EXCLUDE: "" # lenguajes a excluir, ej: "html,css"
