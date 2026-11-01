@@ -82,7 +82,7 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 
 <div align="center">
 
-| Enfoque<br/>Focus | Aprendiendo<br/>Learning | Abierta a<br/>Open to | Pregúntame sobre<br/>Ask me about |
+| 🎯 Enfoque<br/>Focus | 🌱 Aprendiendo<br/>Learning | 🤝 Abierta a<br/>Open to | 💬 Pregúntame sobre<br/>Ask me about |
 |:--:|:--:|:--:|:--:|
 | Full-stack + Datos<br/><sub>Full-stack + Data</sub> | Power BI · C++ · Dart · Vue.js | Colaborar en open source<br/><sub>Open-source collaboration</sub> | Desarrollo web · React · Python<br/><sub>Web dev · React · Python</sub> |
 
@@ -104,12 +104,12 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 <br/><br/>
 
 | | Área · Area | Tecnologías · Technologies |
-|:--|:--|
-| **Backend**<br/><sub>Fortaleza principal · Main strength</sub> | <img src="https://skillicons.dev/icons?i=python,django,php,laravel,nodejs&theme=dark" alt="Backend" /> |
-| **Frontend**<br/><sub>Mi día a día · Daily driver</sub> | <img src="https://skillicons.dev/icons?i=react,redux,vite,ts,js,html,css,bootstrap&theme=dark" alt="Frontend" /> |
-| **Bases de datos**<br/><sub>Databases</sub> | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" /> |
-| **Datos y BI**<br/><sub>Data & BI</sub> | <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="Power BI" /> |
-| **Herramientas**<br/><sub>Tools</sub> | <img src="https://skillicons.dev/icons?i=git,github,jira,notion,vscode,npm,powershell,windows&theme=dark" alt="Tools" /> |
+|:--:|:--|:--|
+| 🐍 | **Backend**<br/><sub>Fortaleza principal · Main strength</sub> | <img src="https://skillicons.dev/icons?i=python,django,php,laravel,nodejs&theme=dark" alt="Backend" /> |
+| ⚛️ | **Frontend**<br/><sub>Mi día a día · Daily driver</sub> | <img src="https://skillicons.dev/icons?i=react,redux,vite,ts,js,html,css,bootstrap&theme=dark" alt="Frontend" /> |
+| 🗄️ | **Bases de datos**<br/><sub>Databases</sub> | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" /> |
+| 📊 | **Datos y BI**<br/><sub>Data & BI</sub> | <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="Power BI" /> |
+| 🛠️ | **Herramientas**<br/><sub>Tools</sub> | <img src="https://skillicons.dev/icons?i=git,github,jira,notion,vscode,npm,powershell,windows&theme=dark" alt="Tools" /> |
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
