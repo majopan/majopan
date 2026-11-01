@@ -1,8 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     🌸 Maria Jose Jiménez · GitHub Profile README  (ES · EN)
-     Tema / Theme: Sakura 桜 · Índigo 藍 · Bermellón 朱
-     Imágenes en /assets  ·  Images live in /assets
-     ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ───────────── HEADER ───────────── -->
 <div align="center">
@@ -82,7 +77,7 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 
 <div align="center">
 
-| 🎯 Enfoque<br/>Focus | 🌱 Aprendiendo<br/>Learning | 🤝 Abierta a<br/>Open to | 💬 Pregúntame sobre<br/>Ask me about |
+| Enfoque<br/>Focus | Aprendiendo<br/>Learning | Abierta a<br/>Open to | Pregúntame sobre<br/>Ask me about |
 |:--:|:--:|:--:|:--:|
 | Full-stack + Datos<br/><sub>Full-stack + Data</sub> | Power BI · C++ · Dart · Vue.js | Colaborar en open source<br/><sub>Open-source collaboration</sub> | Desarrollo web · React · Python<br/><sub>Web dev · React · Python</sub> |
 
