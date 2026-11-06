@@ -1,4 +1,3 @@
-
 <!-- ───────────── HEADER ───────────── -->
 <div align="center">
 
@@ -137,6 +136,7 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
   <img src="assets/header-projects.svg" alt="作品 · Proyectos destacados · Featured Projects" width="100%"/>
 </div>
 <img src="assets/divider.svg" alt="" width="100%"/>
+
 <!-- ═════════ 壱 · DOZO ═════════ -->
 <div align="center">
 
@@ -145,7 +145,10 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
   <img src="assets/window-bar.svg" alt="" width="100%"/><br/>
   <img src="https://github.com/majopan/E-comerce-dozo/blob/main/frontend/frontend-dozo/src/assets/home.png?raw=true" alt="Vista previa de la página de Dozo · Dozo page preview" width="100%"/>
 </a>
+
+</div>
 <img src="assets/divider.svg" alt="" width="100%"/>
+
 <!-- ═════════ 弐 · E-INVENTORY ═════════ -->
 <div align="center">
 
@@ -157,6 +160,7 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 
 </div>
 <img src="assets/divider.svg" alt="" width="100%"/>
+
 <!-- ═════════ 参 · TONGARI BERRY ═════════ -->
 <div align="center">
 
@@ -178,13 +182,15 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 <br/>
 
 <div align="center">
- <div align=center>
-  
+
+<div align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majopan&theme=github_dark)
-  
- </div>
+
+</div>
+
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/majopan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=majopan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=majopan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -194,6 +200,7 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 <img src="assets/divider.svg" alt="" width="100%"/>
 
 </div>
+
 <!-- ───────────── CONTACT ───────────── -->
 <div align="center">
   <img src="assets/header-contact.svg" alt="連絡先 · Contacto · Let's Connect" width="100%"/>
@@ -204,6 +211,17 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 <div align="center">
 
 **¿Colaboramos? · Let's build something together!**
+
+<br/><br/>
+
+<!-- 🐍 Serpiente con la paleta del README (rosa #FFB7C5 / #E8A0BF · azul marino #1D3557 · rojo #E60012) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/majopan/majopan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/majopan/majopan/output/github-snake.svg" />
+  <img alt="Serpiente de contribuciones · Contribution snake" src="https://raw.githubusercontent.com/majopan/majopan/output/github-snake.svg" width="100%" />
+</picture>
+
+<br/><br/>
 
 <a href="mailto:mariazzz2326@gmail.com">
   <img src="https://img.shields.io/badge/Email-mariazzz2326@gmail.com-FFB7C5?style=for-the-badge&logo=gmail&logoColor=1D3557&labelColor=1D3557" alt="Email" />
