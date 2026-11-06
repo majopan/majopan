@@ -196,6 +196,13 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 </a>
 </p>
 
+<!-- 🐍 Serpiente con la paleta del README (rosa #FFB7C5 / #E8A0BF · azul marino #1D3557 · rojo #E60012) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/majopan/majopan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/majopan/majopan/output/github-snake.svg" />
+  <img alt="Serpiente de contribuciones · Contribution snake" src="https://raw.githubusercontent.com/majopan/majopan/output/github-snake.svg" width="100%" />
+</picture>
+
 <br/><br/>
 <img src="assets/divider.svg" alt="" width="100%"/>
 
@@ -211,15 +218,6 @@ Hi! I'm a **Software Developer & Data Analyst** with **2+ years of backend exper
 <div align="center">
 
 **¿Colaboramos? · Let's build something together!**
-
-<br/><br/>
-
-<!-- 🐍 Serpiente con la paleta del README (rosa #FFB7C5 / #E8A0BF · azul marino #1D3557 · rojo #E60012) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/majopan/majopan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/majopan/majopan/output/github-snake.svg" />
-  <img alt="Serpiente de contribuciones · Contribution snake" src="https://raw.githubusercontent.com/majopan/majopan/output/github-snake.svg" width="100%" />
-</picture>
 
 <br/><br/>
 
